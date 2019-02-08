@@ -1,0 +1,36 @@
+{
+  "name": "stylelint-config-good-scss",
+  "version": "1.0.0",
+  "description": "Stylelint config to write nice CSS.",
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "standard",
+    "strict",
+    "scss"
+  ],
+  "author": "uto-usui <me@uto-usui.com> (https://uto-usui.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uto-usui/stylelint-config-strict-scss"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "stylelint-config-standard": "^18.2.0",
+    "stylelint-config-recess-order": "^2.0.1",
+    "stylelint-scss": "^3.5.3"
+  },
+  "devDependencies": {
+    "stylelint": "^9.10.1"
+  },
+  "peerDependencies": {
+    "stylelint": "^9.10.1"
+  },
+  "scripts": {
+    "release": "npm publish"
+  }
+}
