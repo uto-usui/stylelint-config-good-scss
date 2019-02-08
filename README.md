@@ -3,18 +3,18 @@
 ## features
 
 * Extends [`stylelint-config-recommended`](https://github.com/stylelint/stylelint-config-recommended).
-* Extends [`stylelint-config-recess-order`](https://github.com/stylelint/stylelint-config-recess-order).
+* Extends [`stylelint-config-recess-order`](https://github.com/stormwarning/stylelint-config-recess-order).
 * SCSS syntax support.
 
 ## installation
 
-````bash
+```bash
 npm install stylelint-config-good-scss --save-dev
+```
 
-or
-
+```bath
 yarn add --dev stylelint-config-good-scss 
-````
+```
 
 ## Usage
 
