@@ -20,8 +20,8 @@
     "index.js"
   ],
   "dependencies": {
-    "stylelint-config-standard": "^18.2.0",
     "stylelint-config-recess-order": "^2.0.1",
+    "stylelint-config-standard": "^18.2.0",
     "stylelint-scss": "^3.5.3"
   },
   "devDependencies": {
