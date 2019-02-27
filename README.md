@@ -1,4 +1,4 @@
-# stylelint-config-strict-scss
+# stylelint-config-good-scss
 
 ## features
 
