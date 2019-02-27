@@ -1,5 +1,7 @@
 # stylelint-config-good-scss
 
+[![NPM](https://nodei.co/npm/stylelint-config-good-scss.png)](https://nodei.co/npm/stylelint-config-good-scss/)
+
 ## features
 
 * Extends [`stylelint-config-recommended`](https://github.com/stylelint/stylelint-config-recommended).
@@ -27,7 +29,7 @@ And a nice idea to write the task in package.json.
 
 ```js
 module.exports = {
-  extends: ['stylelint-config-good-scss']
+  extends: ['stylelint-config-good-scss'],
   rules: {
     // your rule
   }
