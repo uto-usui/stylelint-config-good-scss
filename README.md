@@ -52,6 +52,8 @@ module.exports = {
 yarn add --dev stylelint stylelint-config-good-scss prettier-stylelint stylelint-webpack-plugin 
 ```
 
+#### stylelint.config.js
+
 ```js
 module.exports = {
   extends: [
