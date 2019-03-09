@@ -16,7 +16,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/uto-usui/stylelint-config-strict-scss"
+    "url": "https://github.com/uto-usui/stylelint-config-good-scss"
   },
   "main": "index.js",
   "files": [
