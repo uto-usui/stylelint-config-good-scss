@@ -23,15 +23,15 @@
     "index.js"
   ],
   "dependencies": {
-    "stylelint-config-recess-order": "^2.0.1",
-    "stylelint-config-standard": "^18.2.0",
-    "stylelint-scss": "^3.5.4"
+    "stylelint-config-recess-order": "^2.0.2",
+    "stylelint-config-standard": "^18.3.0",
+    "stylelint-scss": "^3.6.1"
   },
   "devDependencies": {
-    "stylelint": "^9.10.1"
+    "stylelint": "^10.0.1"
   },
   "peerDependencies": {
-    "stylelint": "^9.10.1"
+    "stylelint": "^10.0.1"
   },
   "scripts": {
     "release": "npm publish",
