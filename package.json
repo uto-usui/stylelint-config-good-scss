@@ -23,9 +23,9 @@
     "index.js"
   ],
   "dependencies": {
-    "stylelint-config-recess-order": "^2.0.2",
-    "stylelint-config-standard": "^18.3.0",
-    "stylelint-scss": "^3.6.1"
+    "stylelint-config-recess-order": "^2.0.3",
+    "stylelint-config-standard": "^19.0.0",
+    "stylelint-scss": "^3.14.2"
   },
   "devDependencies": {
     "stylelint": "^10.0.1"
