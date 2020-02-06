@@ -5,7 +5,10 @@
 ## features
 
 * Extends [`stylelint-config-recommended`](https://github.com/stylelint/stylelint-config-recommended).
+  * It turns on all the possible errors rules within stylelint.
 * Extends [`stylelint-config-recess-order`](https://github.com/stormwarning/stylelint-config-recess-order).
+  * A Stylelint config that sorts CSS properties the way Recess did and Bootstrap did/does.
+  * [@mdo on CSS Property Order](http://markdotto.com/2011/11/29/css-property-order/)
 * SCSS syntax support.
 
 ## installation
@@ -38,7 +41,7 @@ module.exports = {
 
 #### package.json
 
-```js
+```json
 {
   "scripts": {
     "lintcss": "stylelint --fix ./**/*.vue ./**/*.scss"
