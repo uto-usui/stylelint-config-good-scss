@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-good-scss",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Stylelint config to write nice CSS.",
   "keywords": [
     "stylelint",
